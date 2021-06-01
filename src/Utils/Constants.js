@@ -1,7 +1,6 @@
-
 const KEY = {
-    GEO_KEY : 'LQlhX3M5EIQ0NZ2Ih1vQCRySgdpKnLM4',
-    BASE_URL: 'http://localhost:5000'
-}
+  GEO_KEY: "YOUR_KEY",
+  BASE_URL: "BASE_YOUR",
+};
 
 export default KEY;
