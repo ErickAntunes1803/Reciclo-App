@@ -1,0 +1,71 @@
+.main {
+  height: 100vh;
+  /* background-color: red ; */
+  z-index: -1;
+  width: 100%;
+  position: absolute;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+}
+
+.map {
+  height: 100vh;
+}
+
+.Verde {
+  background-color: #819c15af;
+}
+
+.Azul {
+  background-color: #0da0c5;
+}
+
+.Vermelho {
+  background-color: #bd1a1a;
+}
+
+.Amarelo {
+  background-color: #ffe600;
+}
+
+.Preto {
+  background-color: #000000;
+}
+
+.Cinza {
+  background-color: #4b4b4b;
+}
+
+.Outros {
+  border: solid 1px;
+  background-color: #ffffff;
+}
+
+.circulo {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+/*  --------------  Modal  Class -------------------*/
+.pointer {
+  cursor: pointer;
+}
+
+.mapaColeta {
+  /* background-color: aqua; */
+  height: 50vh;
+  width: 100%;
+}
+
+.coletasSizeMap {
+  width: 100%;
+  height: 100%;
+}
+
+.coletaConcluida {
+  color: rgb(0, 153, 255);
+}

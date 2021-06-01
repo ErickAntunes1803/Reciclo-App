@@ -1,0 +1,45 @@
+
+
+.loginColumn
+{
+    font-family: 'Montserrat', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+
+}
+
+.loginCard
+{
+ height: 70vh;
+ width: 40%;
+ padding: 5%;
+ background-color: #72bcf8;
+ /* background-color: #F9CF01; */
+}
+
+.logoCard
+{
+    height: 50vh;
+    width: 100%;
+    padding: 10%;
+    background-color: #d1ecea;
+
+}
+
+.logoLogin
+{
+    width: 80%;
+}
+
+.btnLogin
+{
+    font-size: 15px;
+}
+
+.userIcon
+{
+    margin-bottom: 10%;
+}

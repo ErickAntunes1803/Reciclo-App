@@ -1,0 +1,27 @@
+.menuHeader
+{
+    /* position: fixed; */
+    z-index: 100;
+    background-color: #ffffff60;
+    color: black;
+    position: fixed;
+    width: 100%;
+}
+
+
+.logoNav
+{
+    height: 10vh;
+    /* width: 100px; */
+}
+
+.botaoEntrar
+{
+background-color: #A2BD32;
+outline: none;
+border: none;
+}
+
+.botaoEntrar:hover{
+    background-color:#F9CF01;
+}
